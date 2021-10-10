@@ -1,7 +1,7 @@
 # OCRConversation
 
 
-Future work:
+**Future work:**
 
 - Assess the right font to be read by the algo
 - Increase number of questions / answers pairs
@@ -9,7 +9,7 @@ Future work:
 - Try to make the snapshot to be take upon pressing the spacebar
 
 
-useful links:
+**useful links:**
 
 https://www.blog.pythonlibrary.org/2021/02/16/creating-an-image-viewer-with-pysimplegui/
 
