@@ -31,8 +31,8 @@ def rules(question):
     print(len(question))
     print(question)
 
-    #if question == "what is the best business school out there?":
-    #    answer = "NOVA SBE, from Carcavelos to the World!"
+    #if question == "what is the best country in the world?":
+    #    answer = "Pangea!"
     #elif question == "what is DEL's mission?":
     #    answer = "To be a digital transformation tool box in order to prepare the future digital transformation leaders"
     if question == "whatdayistoday?":
