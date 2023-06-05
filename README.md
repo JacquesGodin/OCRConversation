@@ -17,3 +17,7 @@ The idea behind this is to test if I could create a conversation with a model ba
 https://www.blog.pythonlibrary.org/2021/02/16/creating-an-image-viewer-with-pysimplegui/
 
 https://realpython.com/pysimplegui-python/
+
+
+**Acknowledgements:**
+Ankit Saxena (ankch24@gmail.com)
